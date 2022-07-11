@@ -4,6 +4,8 @@ Starting boilerplate of [Strapi](https://strapi.io/) application
 
 [![setup and check](https://github.com/kpako3rbp/hexlet-ci-app/actions/workflows/newworkflow.yml/badge.svg)](https://github.com/kpako3rbp/hexlet-ci-app/actions/workflows/newworkflow.yml)
 
+[![Setup and check](https://github.com/kpako3rbp/hexlet-ci-app/actions/workflows/newworkflow.yml/badge.svg)](https://github.com/kpako3rbp/hexlet-ci-app/actions/workflows/newworkflow.yml)
+
 ## System requirements
 
 * NodeJS >= 12 <= 16
